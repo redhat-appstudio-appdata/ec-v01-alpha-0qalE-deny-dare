@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: cli-v01-alpha
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhtap-contract-tenant/ec-v01-alpha/cli-v01-alpha@sha256:8baf7fbf60f00297592741245a248844b681baf6b235d4532ccbeb7753132cad
+      - image: quay.io/redhat-user-workloads/rhtap-contract-tenant/ec-v01-alpha/cli-v01-alpha@sha256:4a15f8bb728e63988fdcca7579184f2713c2f2fbae723b3974c755f6c62d21e7
         imagePullPolicy: Always
         name: container-image
         ports:
