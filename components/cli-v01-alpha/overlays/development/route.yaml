@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: cli-v01-alpha
     app.kubernetes.io/part-of: ec-v01-alpha
-  name: cli-v01-alpha72p1
+  name: cli-v01-alphahkgx
 spec:
   port:
     targetPort: 8080
